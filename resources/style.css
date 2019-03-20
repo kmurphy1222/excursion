@@ -1,5 +1,43 @@
 html {
     background-color: black;
     font-family: Verdana;
+    text-align: center;
 }
 
+.discover {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    font-size: 16px;
+    color: Aquamarine;
+}
+
+.guide {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+video {
+    align-content: center;
+}
+
+img {
+    align-content: center;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+.soon {
+    color: white
+}
+
+.copyright {
+    text-align: right;
+}
